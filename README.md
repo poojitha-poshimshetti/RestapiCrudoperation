@@ -1,1 +1,1 @@
-# RestapiCrudoperation
+🔄 **REST API CRUD Operations** – A robust **backend service** built using **Spring Boot and RESTful principles**. ⚙️ Supports **Create, Read, Update, and Delete (CRUD) operations** with seamless data handling via **JSON and MySQL**. 🚀 Designed for **scalability, efficiency, and smooth integration with frontend applications**!
